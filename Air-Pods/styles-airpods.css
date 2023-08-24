@@ -1,0 +1,510 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row-1 {
+    display: flex;
+    background-color: #313132;
+    width: 100%;
+    height: 40px;
+}
+
+.logo-section {
+    display: flex;
+    justify-content: flex-end;
+    width: 25%;
+}
+
+
+.logo-section-2 {
+    width: 25%;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+
+.button-section {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.grey {
+    text-decoration: none;
+    color: #a3a3a4;
+}
+
+.white {
+    text-decoration: none;
+    color: white;
+}
+
+.whitee {
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.whiteee {
+    color:#0071e3;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.logo-image-2 {
+    width: 15px;
+}
+.logo-image-1 {
+    width: 15px;
+}
+
+.Second-Navigation {
+    height: 150px;
+    display: flex;
+    gap: 10px;
+    background-color: #ffffff;
+    justify-content: center;
+}
+
+.item {
+    width: 6%;
+    height: 100%;
+}
+
+.item-image {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.item-text p {
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+    color: #878788;
+}
+
+.item-text-1 {
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+    color: #878788;
+}
+
+.orange {
+    font-size: 10px;
+    text-align: center;
+    color: orange;
+}
+
+.orange-1 {
+    font-size: 20px;
+    text-align: center;
+    color: orange;
+}
+
+.Third-Navigation {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    background-color: lightgray;
+    align-items: center;
+    gap: 3px;
+}
+
+.learn {
+    color: deepskyblue;
+}
+
+.class {
+    width: 20%;
+    height: 100%;
+    border: 2px solid yellow;
+}
+
+.hero {
+    display: flex;
+    width: 100%;
+    height: 720px;
+    position: relative;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 40px;
+    align-items:center;
+    margin-bottom: 40px;
+}
+.videoback{
+    border: 2px solid black;
+    z-index: -100;
+    position: absolute;
+    width: 80%;
+
+}
+
+.Fifth-Navigation {
+    background-image: url(./Assets/images/combined-air-pods.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100%;
+    margin-bottom: 40px;
+    background-color: black;
+    text-align: center;
+    height: 800px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.writeup {
+    display: flex;
+    justify-content: center;
+}
+.increasesize {
+    font-size: 140px;
+}
+
+.increasesize-111 {
+    font-size: 140px;
+    color: lightgray;
+}
+
+.increasesize-1111 {
+    font-size: 100px;
+    color: black;
+}
+
+.increasesize-2222 {
+    font-size: 30px;
+    color: black;
+}
+
+.increasesize-222 {
+    font-size: 70px;
+    color: lightgray;
+}
+.increasesize2 {
+    font-size: 70px;
+}
+.whiteeee {
+    color: black;
+    margin-left: 20px;
+}
+.writeup-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 400px;
+}
+
+.writeup-11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+.Sixth-Navigation {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-image: url(./Assets/images/airpods_max.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-top: 2px solid black;
+    width: 100%;
+    height: 800px;
+}
+
+.Seventh-Navigation {
+    text-align: center;
+    align-items: center;
+    background-image: url(./Assets/images/combined_airpods_2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-top: 2px solid black;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: space-evenly;
+
+    align-items: center;
+}
+
+.Eight-Navigation {
+    display: flex;
+    border-top: 2px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
+
+.Nineth-Navigation {
+    padding: 50px;
+    justify-content: space-evenly;
+    display: flex;
+    width: 100%;
+    border-top: 2px solid black;
+    height: 600px;
+}
+
+.same {
+    width: 20%;
+    height: 500px;
+}
+
+.phone {
+    background-image: url(./Assets/images/tile_onetap_setup.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90%;
+    width: 100%;
+}
+
+.phone, h4 {
+    font-size: 27px;
+}
+
+.ui {
+    background-image: url(./Assets/images/tile_automatic_switching.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90%;
+    width: 100%;
+}
+
+.box-11 {
+    width: 40%;
+    height: 100%;
+}
+.box-22 {
+    width: 40%;
+    height: 100%;
+}
+.box-33 {
+    width: 40%;
+    height: 100%;
+}
+.box-44 {
+    width: 40%;
+    height: 100%;
+}
+
+.blablu {
+    margin-top: 40px;
+}
+
+.blablu-2 {
+    margin-top: 65px;
+}
+
+.blablu-3 {
+    margin-top: 84px;
+}
+.music {
+    background-image: url(./Assets/images/tile_audio_sharing.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 90%;
+    width: 100%;
+}
+
+.Tenth-Navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    border-top: 2px solid black;
+}
+
+.box-111 {
+    background-image: url(./Assets/images/compare_airpods_2nd_gen.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.box-222 {
+    background-image: url(./Assets/images/compare_airpods.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+.watch-bottom {
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 40px;
+}
+
+.round-2 {
+    background-color: #0071e3;
+    color: white;
+    border-radius: 30px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.round-4 {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    height: 60px;
+    width: 70px;
+    font-size: 15px;
+}
+.padding {
+    margin-top: 73px;
+}
+
+.padding1 {
+    margin-top: 82px;
+}
+
+.padding12 {
+    margin-top: 115px;
+}
+.round-44{
+    background-color:#0071e3;
+    color: white;
+    border-radius: 30px;
+    height: 60px;
+    width: 70px;
+    font-size: 15px;
+}
+
+.round-444 {
+    background-color:#0071e3;
+    color: white;
+    border-radius: 30px;
+    height: 40px;
+    width: 50px;
+    font-size: 15px;
+}
+.watch-bottom-1 {
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 5px;
+}
+
+.watch-bottom-2 {
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 40px;
+}
+
+.bottom-bottom {
+    margin-top: 10px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.bottom-bottom-1 {
+    margin-top: 55px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.greyman {
+    color: grey;
+}
+.from-bottom {
+    margin-top: 17px;
+    align-items: center;
+    text-align: center;
+}
+.box-333 {
+    background-image: url(./Assets/images/compare_airpods_pro.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.box-444 {
+    background-image: url(./Assets/images/compare_airpods_max.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.Thirteen-Navigation {
+    width: 100%;
+    height: 600px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Fourteen-Navigation {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    justify-content: space-evenly;
+    height: 800px;
+    border-top: 2px solid black;
+}
+.Fifteen-Navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+}
+
+.Sixteen-Navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 350px;
+}
+.size {
+    width: 33.3%;
+    height: 100%;
+    border-bottom: 2px solid grey;
+    border-top: 2px solid grey;
+}
+
+.size-2 {
+    margin-top: 40px;
+    width: 50px;
+}
+
+.colorr {
+    color: #0071e3;
+}

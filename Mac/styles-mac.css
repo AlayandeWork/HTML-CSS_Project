@@ -1,0 +1,1200 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row-1 {
+    display: flex;
+    background-color: #313132;
+    width: 100%;
+    height: 40px;
+}
+
+.safs {
+    margin-bottom: 10px;
+}
+
+.logo-section {
+    display: flex;
+    justify-content: flex-end;
+    width: 25%;
+}
+
+
+.logo-section-2 {
+    width: 25%;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+
+.button-section {
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.grey {
+    text-decoration: none;
+    color: #a3a3a4;
+}
+
+.white {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-image-2 {
+    width: 15px;
+}
+
+.centre h1 {
+    font-size: 40px;
+}
+
+.logo-image-1 {
+    width: 15px;
+}
+
+.Second-Navigation {
+    height: 150px;
+    display: flex;
+    gap: 5px;
+    background-color: #ffffff;
+    justify-content: center;
+}
+
+.item {
+    width: 8%;
+    height: 100%;
+}
+
+.item-33 {
+    width: 8%;
+    height: 100%;
+
+}
+
+.item-333 {
+    width: 8%;
+    height: 100%;
+
+}
+
+.sek {
+    width: 48px;
+    height: 59px;
+}
+
+.number-1 {
+    width: 48px;
+    height: 59px;
+    margin-bottom: 10px;
+}
+
+.number-11 {
+    width: 49px;
+
+    margin-bottom: 10px;
+}
+
+.nike {
+    width: 48px;
+    height: 59px;
+}
+
+.nike-1 {
+    width: 48px;
+    height: 59px;
+
+}
+
+.nike-11 {
+    width: 48px;
+    height: 59px;
+
+}
+
+.lion {
+    width: 48px;
+    height: 59px;
+    margin-bottom: 10px;
+    margin-top: -24px;
+}
+
+.herm {
+    width: 48px;
+    height: 59px;
+
+}
+
+.learn {
+    color: skyblue;
+}
+
+.band {
+    width: 42px;
+}
+
+.air {
+    width: 45px;
+}
+
+.item-image-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.item-text-2 {
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+    color: #878788;
+    margin-bottom: 15px;
+}
+
+.se {
+
+    width: 48px;
+    height: 59px;
+}
+
+.series3 {
+
+    width: 48px;
+    height: 59px;
+}
+
+.item-image {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.change {
+    color: grey;
+}
+
+.item-image-3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 7px;
+}
+
+.item-image-4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+
+.item-image-5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+}
+
+.item-image-6 {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.item-text p {
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+    color: #878788;
+}
+
+.item-text-111 {
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+    color: #878788;
+    margin-bottom: 800px;
+}
+
+.item-text-1 {
+    font-size: 14px;
+    text-align: center;
+    line-height: 16px;
+    color: #878788;
+}
+
+.orange {
+    font-size: 10px;
+    text-align: center;
+    color: orange;
+}
+
+.Third-Navigation {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    background-color: #f5f5f7;
+    align-items: center;
+    margin-bottom: 10px;
+    gap: 3px;
+}
+
+.Fourth-Navigation {
+    display: flex;
+    justify-content: center;
+    background-position: bottom;
+    width: 100%;
+    height: 800px;
+    background-image: url(./Assets/images/macbook-pro.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 300px;
+}
+
+.bla {
+    display: flex;
+    justify-content: center;
+}
+
+.write-up {
+    height: 400px;
+    width: 100%;
+    line-height: 60px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.begin {
+    color: red;
+    font-size: 20px;
+}
+
+.full {
+    font-size: 100px;
+}
+
+.middle-1 {
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    border-bottom: 2px solid grey;
+
+}
+
+.middle-3 {
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+
+.middle-2 {
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+.money {
+    margin-top: 40px;
+    font-size: 40px;
+}
+
+.mac {
+    font-size: 40px;
+}
+
+.watch {
+    width: 5%;
+
+}
+
+.buy {
+    background-color: #0071e3;
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+    border: none;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.blue {
+    color: blue;
+    font-size: 20px;
+}
+
+.blue-2 {
+    color: blue;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.right-for-text {
+    font-size: 57px;
+    margin-bottom: 30px;
+}
+
+.Fifth-Navigation {
+    text-align: center;
+}
+
+.Sixth-Navigation {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.Seventh-Navigation {
+    width: 100%;
+    height: 600px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box-11 {
+    width: 30%;
+    height: 100%;
+}
+
+.box-22 {
+    width: 30%;
+    height: 100%;
+}
+
+.box-33 {
+    width: 30%;
+    height: 100%;
+}
+
+.Seventh-Navigation {
+    text-align: center;
+}
+
+.round-2 {
+    background-color: #0071e3;
+    color: white;
+    border-radius: 30px;
+    height: 30px;
+    width: 50px;
+    border: none;
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.right-for-text {
+    font-size: 57px;
+}
+
+.box-111 {
+    background-image: url(./Assets/images/macbook-air.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.box-222 {
+    background-image: url(./Assets/images/macbook-pro-13.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.box-333 {
+    background-image: url(./Assets/images/macbook-pro-14.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 100%;
+    height: 50%;
+}
+
+.container {
+    height: 2%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.container-1 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: red;
+}
+
+.container-2 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: yellow;
+}
+
+.container-3 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: green;
+}
+
+.container-4 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: blue;
+}
+
+.container-5 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: black;
+}
+
+.container-6 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: indigo;
+}
+
+.container-7 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: magenta;
+}
+
+.container-8 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: purple;
+}
+
+.container-9 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: pink;
+}
+
+.container-10 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: violet;
+}
+
+.container-11 {
+    height: 2%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.container-111 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: olive;
+}
+
+.container-222 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: gray;
+}
+
+.container-333 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: black;
+}
+
+.container-22 {
+    height: 2%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.container-444 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: olive;
+}
+
+.container-555 {
+    width: 2%;
+    border-radius: 200px;
+    background-color: gray;
+}
+
+.watch-bottom {
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 70px;
+}
+
+.watch-bottom p {
+    color: orange;
+}
+
+.color {
+    color: grey;
+}
+
+
+.watch-bottom-1 {
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 70px;
+}
+
+.watch-bottom-2 {
+    align-items: center;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 30px;
+}
+
+.from-bottom {
+    margin-top: 17px;
+    align-items: center;
+    text-align: center;
+}
+
+.bottom-bottom {
+    margin-top: 17px;
+    align-items: center;
+    text-align: center;
+    border-bottom: 2px solid grey;
+    padding-bottom: 40px;
+
+}
+
+.space-bottom {
+    margin-bottom: 20px;
+}
+
+.Eigth-Navigation {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    justify-content: space-evenly;
+    height: 1100px;
+}
+
+.line {
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    border-bottom: 2px solid grey;
+    padding-bottom: 40px;
+}
+
+.line p {
+    color: grey;
+}
+
+
+.blablu {
+    margin-top: 50px;
+}
+
+.blablu2 {
+    margin-top: 29px;
+}
+
+.Nineth-Navigation {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 90px;
+}
+
+.div-22 h4 {
+    color: grey;
+    line-height: 23px;
+}
+
+.Ten-Navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 600px;
+    padding: 10px;
+}
+
+.div-11 {
+    background-image: url(./Assets/images/apple-card.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    width: 65%;
+    height: 100%;
+}
+
+.wake {
+    font-size: 40px;
+    color: #c2639b;
+}
+
+.wake-2 {
+    margin-top: 20px;
+}
+
+.div-22 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #f2f2f2;
+    width: 35%;
+    height: 100%;
+}
+
+.div-21 h4 {
+    margin-top: 20px;
+    line-height: 23px;
+}
+
+.side {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.div-61 img {
+    width: 48px;
+    height: 59px;
+}
+
+.sidemen {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.side-1 {
+    color: #0467cc;
+    font-size: 15px;
+}
+
+.side-11 {
+    color: #0467cc;
+    font-size: 20px;
+}
+
+.side-2 {
+    color: #0467cc;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+.Eleventh-Navigation {
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px;
+    height: 700px;
+    justify-content: space-between;
+}
+
+.Fourtheen-Navigation {
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    justify-content: space-around;
+    height: 500px;
+}
+
+.div-3 {
+    background-image: url(./Assets/images/accessories.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #f2f2f2;
+    display: flex;
+    width: 49%;
+    height: 100%;
+}
+
+.div-33 {
+    background-image: url(./Assets/images/why-mac.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fafafa;
+    display: flex;
+    width: 45%;
+    height: 100%;
+}
+
+.div-44 {
+    background-image: url(./Assets/images/continuity.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #fafafa;
+    width: 45%;
+    height: 100%;
+}
+
+.div-4 {
+    background-image: url(./Assets/images/mac.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    width: 49%;
+    height: 100%;
+}
+
+.teal {
+    text-align: center;
+    margin-bottom: 300px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.big {
+    font-size: 50px;
+}
+
+.again {
+    margin-top: 20px;
+}
+
+.big-1 {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+.teal-1 {
+    margin-top: 20px;
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+
+.white {
+    color: white;
+}
+
+.teal-11 {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.teal-111 {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+.teal-2 {
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.Twelve-Navigation {
+    display: flex;
+    width: 100%;
+    height: 350px;
+}
+
+.size {
+    text-align: center;
+    width: 33.3%;
+    height: 100%;
+    margin-top: 50px;
+}
+
+.size-2 {
+    margin-top: 25px;
+    width: 50px;
+}
+
+.size-3 {
+    margin-top: 25px;
+    width: 60px;
+}
+
+.Thirteen-Navigation {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.weight {
+    font-weight: bold;
+}
+
+.Fifteen-Navigation {
+    background-image: url(./Assets/images/moneterey.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+}
+
+.centre {
+    margin-top: 300px;
+    text-align: center;
+}
+
+.Sixtheen-Navigation {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.Seventheen-Navigation {
+    height: 150px;
+    display: flex;
+    gap: 5px;
+    background-color: #ffffff;
+    justify-content: center;
+}
+
+.Eightheen-Navigation {
+    text-align: center;
+    width: 100%;
+    height: 100px;
+}
+
+.Ninetheen-Navigation {
+    background-image: url(./Assets/images/about_safari.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+}
+
+.Twenty-Navigation {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.more {
+    margin-bottom: 20px;
+}
+
+.Twentyone-Navigation {
+    height: 150px;
+    display: flex;
+    gap: 5px;
+    background-color: #ffffff;
+    justify-content: center;
+}
+
+.Twentytwo-Navigation {
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+
+.Twentythree-Navigation {
+    background-image: url(./Assets/images/about_logicpro.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+}
+
+.Twentyfour-Navigation {
+    text-align: center;
+}
+
+.Twentyfive-Navigation {
+    display: flex;
+    width: 100%;
+    height: 500px;
+    margin-bottom: 40px;
+}
+
+.div-12 {
+    background-image: url(./Assets/images/virtual_sessions.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    width: 50%;
+    height: 100%;
+}
+
+.div-21 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+
+.Twentysix-Navigation {
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+.div-51 {
+    background-image: url(./Assets/images/bundle.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+}
+
+.div-52 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+.Twentyseven-Navigation {
+    display: flex;
+    width: 100%;
+    height: 700px;
+    justify-content: space-evenly;
+}
+
+.div-61 {
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    width: 48%;
+    height: 100%;
+    text-align: center;
+}
+
+.cum {
+    color: white;
+    margin-top: 200px;
+    margin-bottom: 30px;
+}
+
+.div-61 img {
+    width: 40ppx;
+}
+
+.div-62 h2 {
+    margin-bottom: 30px;
+    margin-top: 150px;
+}
+
+.div-62 {
+    background-image: url(./Assets/images/apple_pay.jpg);
+    background-size: 500px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 48%;
+    height: 100%;
+}
+
+.sided {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 350px;
+}
+
+.Twentyeight-Navigation {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 800px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.div-71 {
+    background-image: url(./Assets/images/apple_arcade.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-start;
+    width: 48%;
+    height: 100%;
+}
+
+.div-71 h1 {
+    margin-top: 150px;
+}
+
+.div-72 h1 {
+    margin-bottom: 20px;
+    margin-top: 110px;
+    color: white;
+}
+
+.div-71 h3 {
+    margin-bottom: 20px;
+}
+
+.div-72 h2 {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.div-72 p {
+    color: white;
+}
+
+.div-72 {
+    background-image: url(./Assets/images/apple_news_plus.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: flex-start;
+    width: 48%;
+    height: 100%;
+}
+
+.Twentynine-Navigation {
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+
+.div-91 {
+    line-height: 40px;
+}
+
+.div-81 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 30%;
+    height: 100%;
+}
+
+.hell {
+    color: white;
+}
+
+.hell-2 {
+    color: white;
+    font-size: 20px;
+}
+
+.div-82 {
+    background-image: url(./Assets/images/apple_gift_card.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 100%;
+}
+
+.Thirty-Navigation {
+    background-image: url(./Assets/images/apple_at_work.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100%;
+    height: 700px;
+}
+
+.div-91 {
+    text-align: center;
+}
+
+.Thirtyone-Navigation {
+    background-image: url(./Assets/images/education.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100%;
+    margin-top: 10px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mon {
+    color: #0071e3;
+}
